@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Used to give IDs to particles." />
       <item value="Butterfly Particle Reconstruction System" />
       <item value="Get All Unique Shared Component Data" />
       <item value="Add Job Handle For Producer" />
@@ -54,12 +55,11 @@
       <item value="With Structural Changes" />
       <item value="With Dispose On Completion" />
       <item value="Amplitude" />
-      <item value="amplitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="294" />
-        <entry key="ENGLISH" value="295" />
+        <entry key="CHINESE" value="295" />
+        <entry key="ENGLISH" value="296" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

@@ -5,6 +5,14 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Vertices" />
+      <item value="Axis vectors" />
+      <item value="Flapping" />
+      <item value="Look-at matrix from velocity" />
+      <item value="Vertex output" />
+      <item value="Vertex positions" />
+      <item value="Random rotation" />
+      <item value="Scaling with simple lerp" />
       <item value="Used to give IDs to particles." />
       <item value="Butterfly Particle Reconstruction System" />
       <item value="Get All Unique Shared Component Data" />
@@ -47,19 +55,11 @@
       <item value="Update Before" />
       <item value="Method to calculate the preferred width and height of the text object." />
       <item value="Reset dirty states as we always want to recalculate preferred values when this function is called." />
-      <item value="Function to Calculate the Preferred Width and Height of the text object." />
-      <item value="Function used for preprocessing of text" />
-      <item value="角落" />
-      <item value="_bluetooth Mode" />
-      <item value="Get Preferred Values" />
-      <item value="With Structural Changes" />
-      <item value="With Dispose On Completion" />
-      <item value="Amplitude" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="295" />
-        <entry key="ENGLISH" value="296" />
+        <entry key="CHINESE" value="303" />
+        <entry key="ENGLISH" value="304" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

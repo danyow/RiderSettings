@@ -5,6 +5,16 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Create Internal" />
+      <item value="         Generate the full list of size and speeds so that we can maintain an approximate average&#10;         this way we don't get wildly different difficulties each time the game is run&#10;         For example, if we just chose speed randomly each time we spawned an asteroid, in some&#10;         cases that might result in the first set of asteroids all going at max speed, or min speed" />
+      <item value="Asteroid" />
+      <item value="Placeholder Factory" />
+      <item value="Preserve Attribute" />
+      <item value="Bind Instance" />
+      <item value="    We prefer to use ScriptableObjectInstaller for installers that contain game settings&#10;     There's no reason why you couldn't use a MonoInstaller here instead, however&#10;     using ScriptableObjectInstaller has advantages here that make it nice for settings:&#10;    &#10;     1) You can change these values at runtime and have those changes persist across play&#10;        sessions.  If it was a MonoInstaller then any changes would be lost when you hit stop&#10;     2) You can easily create multiple ScriptableObject instances of this installer to test&#10;        different customizations to settings.  For example, you might have different instances&#10;        for each difficulty mode of your game, such as &quot;Easy&quot;, &quot;Hard&quot;, etc.&#10;     3) If your settings are associated with a game object composition root, then using&#10;        ScriptableObjectInstaller can be easier since there will only ever be one definitive&#10;        instance for each setting.  Otherwise, you'd have to change the settings for each game&#10;        object composition root separately at runtime" />
+      <item value="Scriptable Object Installer" />
+      <item value="Inject Optional" />
+      <item value="    We could just add [Inject] to the field declarations but&#10;         it's often better practice to use PostInject methods&#10;         Note that we can't use Constructors here because this is&#10;         a MonoBehaviour" />
       <item value="Particle" />
       <item value="通用步骤" />
       <item value="Common Step" />
@@ -45,27 +55,17 @@
       <item value="Calculate the initial data with parallel-for jobs." />
       <item value="         We use parallel-for jobs to calculate the initial data for the&#10;         components in the instanced entities. The primary motivation of this&#10;         is to optimize the vector math operations with Burst -- We don't&#10;         expect that parallelism gives a big performance boost." />
       <item value="Jobified initializer" />
-      <item value="Loop 3: Iterate over the vertices in the template mesh." />
-      <item value="Loop 2: Iterate over the instance entities." />
-      <item value="Loop 1: Iterate over the unique instance data entries." />
-      <item value="            &#10;             There are three levels of loops in this system:&#10;            &#10;             Loop 1: Through the array of unique instance settings. We'll get&#10;             an array of entities that share the same instance setting.&#10;            &#10;             Loop 2: Through the array of entities got in Loop 1.&#10;            &#10;             Loop 3: Through the array of vertices in the template mesh given&#10;             via the instance setting.&#10;            " />
-      <item value="Clear the unused part of the vertex buffer." />
-      <item value="Accessor to the scene transforms" />
-      <item value="Update the vertexnormal array via the managed buffers." />
-      <item value="Clear the rest of the managed vertex buffer." />
-      <item value="Copy the vertexnormal data into the managed buffers." />
-      <item value=" NOTE: This is a per project ifdfef,&#10;       the samples in this project are run in both modes for testing purposes.&#10;       In a normal game project this ifdef is not required." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="305" />
-        <entry key="ENGLISH" value="306" />
+        <entry key="CHINESE" value="315" />
+        <entry key="ENGLISH" value="316" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1662528845731" />
+    <option name="lastTrimTime" value="1663166380643" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />

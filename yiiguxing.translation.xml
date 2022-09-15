@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Concrete Id Binder Generic" />
+      <item value="bind Statement" />
+      <item value="Attempted to start a binding during a binding finalizer.  This is not allowed, since binding finalizers should directly use AddProvider instead, to allow for bindings to be inherited properly without duplicates" />
+      <item value="_is Finalizing Binding" />
       <item value="Create Internal" />
       <item value="         Generate the full list of size and speeds so that we can maintain an approximate average&#10;         this way we don't get wildly different difficulties each time the game is run&#10;         For example, if we just chose speed randomly each time we spawned an asteroid, in some&#10;         cases that might result in the first set of asteroids all going at max speed, or min speed" />
       <item value="Asteroid" />
@@ -51,15 +55,11 @@
       <item value="Create an array of clones as putting a clone on each triangle." />
       <item value="Create the default entities." />
       <item value=" We want to do entity instantiation in parallel with the jobs,&#10;             so let the jobs kick in immediately." />
-      <item value="Create a renderer for this group." />
-      <item value="Calculate the initial data with parallel-for jobs." />
-      <item value="         We use parallel-for jobs to calculate the initial data for the&#10;         components in the instanced entities. The primary motivation of this&#10;         is to optimize the vector math operations with Burst -- We don't&#10;         expect that parallelism gives a big performance boost." />
-      <item value="Jobified initializer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="315" />
-        <entry key="ENGLISH" value="316" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

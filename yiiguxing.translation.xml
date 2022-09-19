@@ -5,6 +5,10 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Expiration" />
+      <item value="Reconstruction" />
+      <item value="Particle Reconstruction System Base" />
+      <item value="Get Instance" />
       <item value="Concrete Id Binder Generic" />
       <item value="bind Statement" />
       <item value="Attempted to start a binding during a binding finalizer.  This is not allowed, since binding finalizers should directly use AddProvider instead, to allow for bindings to be inherited properly without duplicates" />
@@ -51,21 +55,17 @@
       <item value="Pointer to an underlying graphics API texture resource.&lt;" />
       <item value="Reset the triangle counter for the next frame." />
       <item value="Set the initial data." />
-      <item value="Destroy the temporary objects." />
-      <item value="Create an array of clones as putting a clone on each triangle." />
-      <item value="Create the default entities." />
-      <item value=" We want to do entity instantiation in parallel with the jobs,&#10;             so let the jobs kick in immediately." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="319" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="323" />
+        <entry key="ENGLISH" value="324" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1663166380643" />
+    <option name="lastTrimTime" value="1663628979587" />
   </component>
   <component name="Settings">
     <option name="autoPlayTTS" value="true" />

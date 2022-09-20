@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Simplex noise." />
       <item value="cast Shadows" />
       <item value="template Mesh" />
       <item value="effect Rate" />
@@ -54,12 +55,11 @@
       <item value="Get Weight" />
       <item value=" We want this renderer object disposed at the end of world." />
       <item value="Returns native RenderBuffer. Be warned this is not native Texture, but rather pointer to unity struct that can be used with native unity API. Currently such API exists only on iOS." />
-      <item value="A NativeArray exposes a buffer of native memory to managed code, making it possible to share data between managed and native without marshalling costs." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

@@ -5,6 +5,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="triangle Extent" />
+      <item value="The mathematical constant pi. Approximately 3.14" />
       <item value="Elapsed Time" />
       <item value="Amplitude" />
       <item value="Simplex noise." />
@@ -53,13 +55,11 @@
       <item value="variant" />
       <item value="Default Entity Entry" />
       <item value="  This table is used to create particle entities with a weighted&#10;         random distribution of particle types. It stores selection weights&#10;         and default entities that allows creating entities with instancing.&#10;" />
-      <item value="Default entity table" />
-      <item value="Get Weight" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="CHINESE" value="331" />
+        <entry key="ENGLISH" value="332" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

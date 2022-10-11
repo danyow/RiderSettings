@@ -5,6 +5,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="The transform relative to the entity's parent." />
       <item value="Butterfly Particle Authoring" />
       <item value="this overload exists here with the sole purpose of being able to give the user a not-totally-horrible&#10;        experience when they try to use an unsupported lambda signature. When this happens, the C compiler&#10;        will go through its overload resolution, take the first candidate, and explain the user why the users&#10;        lambda is incompatible with that first candidates' parametertype.  We put this method here, instead&#10;        of with the other .ForEach overloads, to make sure this is the overload that the c compiler will pick&#10;        when generating its compiler error.  If we didn't do that, it might pick a completely unrelated .ForEach&#10;        extension method, like the one for IJobChunk.&#10;        &#10;        The only communication channel we have to the user to guide them to figuring out what their problem is&#10;        is the name of the expected delegate type, as the c compiler will put that in its compiler error message.&#10;        so we take this very unconventional approach here of encoding a message for the user in that type name,&#10;        that is easily googlable, so they will end up at a documentation page that describes why some lambda&#10;        signatures are compatible, and why some aren't, and what to do about that.&#10;        &#10;        the reason the delegate type is in the global namespace, is that it makes for a cleaner error message&#10;        it's marked with an attribute to prevent it from showing up in intellisense." />
       <item value="Invalid For Each Signature See For Each Documentation For Rules And Restrictions" />
@@ -54,12 +55,11 @@
       <item value=" Create an array of clones as putting a clone on each triangle." />
       <item value="Initialize the default entity table." />
       <item value="Cleanup Default Entity Table" />
-      <item value="Select Random Default Entity" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="334" />
-        <entry key="ENGLISH" value="335" />
+        <entry key="CHINESE" value="335" />
+        <entry key="ENGLISH" value="336" />
         <entry key="FRENCH" value="1" />
       </map>
     </option>

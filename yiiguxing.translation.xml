@@ -5,6 +5,9 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="abstract" />
+      <item value="each Marked" />
+      <item value="foreach Marked" />
       <item value="wait Times" />
       <item value="分析" />
       <item value="不重复的" />
@@ -52,14 +55,11 @@
       <item value="Vertices" />
       <item value="Axis vectors" />
       <item value="Flapping" />
-      <item value="Look-at matrix from velocity" />
-      <item value="Vertex output" />
-      <item value="Vertex positions" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="342" />
-        <entry key="ENGLISH" value="343" />
+        <entry key="CHINESE" value="345" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="1" />
         <entry key="LITHUANIAN" value="1" />
       </map>

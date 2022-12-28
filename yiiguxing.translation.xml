@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="放大" />
       <item value="processor Count" />
     </histories>
     <option name="languageScores">

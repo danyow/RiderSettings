@@ -82,17 +82,24 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1671785511538" />
+    <option name="lastTrimTime" value="1675293505526" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Smoothly Set Time" />
+      <item value="Set Time Smoothly" />
+      <item value="平滑的设置时间" />
+      <item value="Set Time Lerp" />
       <item value="放大" />
       <item value="processor Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="3" />
+        <entry key="ENGLISH" value="4" />
       </map>
     </option>
   </component>

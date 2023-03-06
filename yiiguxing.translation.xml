@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="MenuCommand is the only optional supported parameter." />
       <item value="from from" />
       <item value="form" />
       <item value="form Rim" />
@@ -114,8 +115,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="17" />
-        <entry key="ENGLISH" value="18" />
+        <entry key="CHINESE" value="18" />
+        <entry key="ENGLISH" value="19" />
       </map>
     </option>
   </component>

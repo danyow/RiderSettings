@@ -82,13 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1677680000544" />
+    <option name="lastTrimTime" value="1678147583688" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="文档" />
       <item value="MenuCommand is the only optional supported parameter." />
       <item value="from from" />
       <item value="form" />
@@ -115,7 +116,7 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="18" />
+        <entry key="CHINESE" value="19" />
         <entry key="ENGLISH" value="19" />
       </map>
     </option>

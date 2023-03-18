@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Co-authored-by" />
+      <item value="co Authored By" />
       <item value="生成测试建议" />
       <item value="失败" />
       <item value="文档" />
@@ -119,7 +121,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="21" />
+        <entry key="ENGLISH" value="22" />
       </map>
     </option>
   </component>

@@ -90,6 +90,17 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Get Version Latest Path" />
+      <item value="latest Build Code" />
+      <item value="后缀" />
+      <item value="hotfix Dll Sufix" />
+      <item value="target" />
+      <item value="target File Info" />
+      <item value="dest File Info" />
+      <item value="目的地" />
+      <item value="目标" />
+      <item value="dist File Info" />
+      <item value="origin File Info" />
       <item value="_build Code" />
       <item value="_version Code" />
       <item value="The version of the Unity runtime used to play the content." />
@@ -129,14 +140,11 @@
       <item value="Smoothly Set Time" />
       <item value="Set Time Smoothly" />
       <item value="平滑的设置时间" />
-      <item value="Set Time Lerp" />
-      <item value="放大" />
-      <item value="processor Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="33" />
-        <entry key="ENGLISH" value="34" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
       </map>
     </option>
   </component>

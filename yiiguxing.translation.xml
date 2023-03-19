@@ -90,6 +90,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="String Comparison.Ordinal" />
+      <item value="Ordinal" />
       <item value="Get Version Latest Path" />
       <item value="latest Build Code" />
       <item value="后缀" />
@@ -138,8 +140,6 @@
       <item value="选中" />
       <item value="profile" />
       <item value="Smoothly Set Time" />
-      <item value="Set Time Smoothly" />
-      <item value="平滑的设置时间" />
     </histories>
     <option name="languageScores">
       <map>

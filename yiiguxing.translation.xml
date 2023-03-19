@@ -90,6 +90,7 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="_build Code" />
       <item value="_version Code" />
       <item value="The version of the Unity runtime used to play the content." />
       <item value="Streaming Assets" />
@@ -134,8 +135,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="32" />
-        <entry key="ENGLISH" value="33" />
+        <entry key="CHINESE" value="33" />
+        <entry key="ENGLISH" value="34" />
       </map>
     </option>
   </component>

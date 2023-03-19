@@ -85,7 +85,18 @@
     <option name="lastTrimTime" value="1679114958164" />
   </component>
   <component name="Translation.States">
+    <option name="newTranslationDialogWidth" value="598" />
+    <option name="newTranslationDialogX" value="1134" />
+    <option name="newTranslationDialogY" value="627" />
+    <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Streaming Assets" />
+      <item value="Downloaded Path" />
+      <item value="Web Request" />
+      <item value="Local Path" />
+      <item value="Hotfix Load Mode" />
+      <item value="directory" />
+      <item value="目录" />
       <item value="Load From Path" />
       <item value="Load From Downloaded" />
       <item value="Load From Web Request" />
@@ -121,8 +132,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="24" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="30" />
+        <entry key="ENGLISH" value="31" />
       </map>
     </option>
   </component>

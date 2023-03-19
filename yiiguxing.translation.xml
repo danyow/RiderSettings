@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Load From Streaming Assets" />
       <item value="Co-authored-by" />
       <item value="co Authored By" />
       <item value="生成测试建议" />

@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="资源引用" />
+      <item value="引用" />
       <item value="指定" />
       <item value="String Comparison.Ordinal" />
       <item value="Ordinal" />
@@ -134,7 +136,6 @@
       <item value="Disable Load Asset By File Name" />
       <item value="Chunk Based Compression" />
       <item value="dependence" />
-      <item value="引用" />
       <item value="from" />
       <item value="dest" />
       <item value="Super Set" />
@@ -142,12 +143,11 @@
       <item value="Homologous Image Mode" />
       <item value="选择者" />
       <item value="选中" />
-      <item value="profile" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="42" />
-        <entry key="ENGLISH" value="43" />
+        <entry key="CHINESE" value="44" />
+        <entry key="ENGLISH" value="44" />
       </map>
     </option>
   </component>

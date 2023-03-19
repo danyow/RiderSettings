@@ -84,11 +84,11 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1679114958164" />
   </component>
-  <component name="Translation.Settings">
-    <option name="translator" value="MICROSOFT" />
-  </component>
   <component name="Translation.States">
     <histories>
+      <item value="Load From Path" />
+      <item value="Load From Downloaded" />
+      <item value="Load From Web Request" />
       <item value="Load From Streaming Assets" />
       <item value="Co-authored-by" />
       <item value="co Authored By" />
@@ -121,8 +121,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="21" />
-        <entry key="ENGLISH" value="22" />
+        <entry key="CHINESE" value="24" />
+        <entry key="ENGLISH" value="25" />
       </map>
     </option>
   </component>

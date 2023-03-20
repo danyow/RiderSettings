@@ -93,6 +93,8 @@
     <option name="newTranslationDialogY" value="627" />
     <option name="pinTranslationDialog" value="true" />
     <histories>
+      <item value="Begins a group that can be be hiddenshown and the transition will be animated." />
+      <item value="Replace No Compress Asset" />
       <item value="前缀" />
       <item value="simple Valid" />
       <item value="数据校验" />
@@ -141,13 +143,11 @@
       <item value="Disable Load Asset By File Name With Extension" />
       <item value="Disable Load Asset By File Name" />
       <item value="Chunk Based Compression" />
-      <item value="dependence" />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
       </map>
     </option>
   </component>

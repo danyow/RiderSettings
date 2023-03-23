@@ -82,59 +82,13 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1679114958164" />
+    <option name="lastTrimTime" value="1678147583688" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
-    <option name="newTranslationDialogWidth" value="598" />
-    <option name="newTranslationDialogX" value="1134" />
-    <option name="newTranslationDialogY" value="627" />
-    <option name="pinTranslationDialog" value="true" />
     <histories>
-      <item value="Screen Width" />
-      <item value="Begins a group that can be be hiddenshown and the transition will be animated." />
-      <item value="Replace No Compress Asset" />
-      <item value="前缀" />
-      <item value="simple Valid" />
-      <item value="数据校验" />
-      <item value="assembly Name" />
-      <item value="specify Version Code" />
-      <item value="Unity Script Patched" />
-      <item value="资源引用" />
-      <item value="引用" />
-      <item value="指定" />
-      <item value="String Comparison.Ordinal" />
-      <item value="Ordinal" />
-      <item value="Get Version Latest Path" />
-      <item value="latest Build Code" />
-      <item value="后缀" />
-      <item value="hotfix Dll Sufix" />
-      <item value="target" />
-      <item value="target File Info" />
-      <item value="dest File Info" />
-      <item value="目的地" />
-      <item value="目标" />
-      <item value="dist File Info" />
-      <item value="origin File Info" />
-      <item value="_build Code" />
-      <item value="_version Code" />
-      <item value="The version of the Unity runtime used to play the content." />
-      <item value="Streaming Assets" />
-      <item value="Downloaded Path" />
-      <item value="Web Request" />
-      <item value="Local Path" />
-      <item value="Hotfix Load Mode" />
-      <item value="directory" />
-      <item value="目录" />
-      <item value="Load From Path" />
-      <item value="Load From Downloaded" />
-      <item value="Load From Web Request" />
-      <item value="Load From Streaming Assets" />
-      <item value="Co-authored-by" />
-      <item value="co Authored By" />
-      <item value="生成测试建议" />
       <item value="失败" />
       <item value="文档" />
       <item value="MenuCommand is the only optional supported parameter." />
@@ -143,11 +97,28 @@
       <item value="form Rim" />
       <item value="Disable Load Asset By File Name With Extension" />
       <item value="Disable Load Asset By File Name" />
+      <item value="Chunk Based Compression" />
+      <item value="dependence" />
+      <item value="引用" />
+      <item value="from" />
+      <item value="dest" />
+      <item value="Super Set" />
+      <item value="Consistent" />
+      <item value="Homologous Image Mode" />
+      <item value="选择者" />
+      <item value="选中" />
+      <item value="profile" />
+      <item value="Smoothly Set Time" />
+      <item value="Set Time Smoothly" />
+      <item value="平滑的设置时间" />
+      <item value="Set Time Lerp" />
+      <item value="放大" />
+      <item value="processor Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="50" />
-        <entry key="ENGLISH" value="51" />
+        <entry key="CHINESE" value="20" />
+        <entry key="ENGLISH" value="20" />
       </map>
     </option>
   </component>

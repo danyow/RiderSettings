@@ -82,13 +82,15 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1678147583688" />
+    <option name="lastTrimTime" value="1679583279886" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="_center Style" />
+      <item value="un Valid" />
       <item value="失败" />
       <item value="文档" />
       <item value="MenuCommand is the only optional supported parameter." />

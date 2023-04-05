@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Del Here" />
       <item value="LEOECSLITE NO SANITIZE CHECKS" />
       <item value="Поле должно быть проинициализировано в инспекторе средствами редактора" />
       <item value="Ecs Ugui Emitter" />
@@ -138,12 +139,11 @@
       <item value="profile" />
       <item value="Smoothly Set Time" />
       <item value="Set Time Smoothly" />
-      <item value="平滑的设置时间" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="41" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="42" />
+        <entry key="ENGLISH" value="43" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

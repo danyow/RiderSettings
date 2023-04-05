@@ -89,6 +89,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="LEOECSLITE NO SANITIZE CHECKS" />
+      <item value="Поле должно быть проинициализировано в инспекторе средствами редактора" />
+      <item value="Ecs Ugui Emitter" />
+      <item value="_ugui Emitter" />
+      <item value="Поле должно быть проинициализировано в инспекторе средствами редактора Unity." />
       <item value="Emitter system for uGui events to ECS world." />
       <item value="Singleton" />
       <item value="Publish Async" />
@@ -134,14 +139,12 @@
       <item value="Smoothly Set Time" />
       <item value="Set Time Smoothly" />
       <item value="平滑的设置时间" />
-      <item value="Set Time Lerp" />
-      <item value="放大" />
-      <item value="processor Count" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="39" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
+        <entry key="RUSSIAN" value="2" />
       </map>
     </option>
   </component>

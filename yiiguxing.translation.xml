@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Is Assignable From" />
       <item value="Knob" />
       <item value="Achievement" />
       <item value="Idents" />
@@ -138,12 +139,11 @@
       <item value="Super Set" />
       <item value="Consistent" />
       <item value="Homologous Image Mode" />
-      <item value="选择者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="46" />
-        <entry key="ENGLISH" value="47" />
+        <entry key="CHINESE" value="47" />
+        <entry key="ENGLISH" value="48" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

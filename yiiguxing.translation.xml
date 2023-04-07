@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="snapping" />
       <item value="ABS Animation Component" />
       <item value="Is Assignable From" />
       <item value="Knob" />
@@ -138,12 +139,11 @@
       <item value="from" />
       <item value="dest" />
       <item value="Super Set" />
-      <item value="Consistent" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="49" />
+        <entry key="ENGLISH" value="50" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

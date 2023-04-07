@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Changes a TO tween into a FROM tween: sets the current target's position as the tween's endValue then immediately sends the target to the previously set endValue." />
+      <item value="Generate Tween Internal" />
       <item value="Animation Sequencer" />
       <item value="requires Reset" />
       <item value="snapping" />
@@ -137,13 +139,11 @@
       <item value="Disable Load Asset By File Name" />
       <item value="Chunk Based Compression" />
       <item value="dependence" />
-      <item value="引用" />
-      <item value="from" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="51" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="53" />
+        <entry key="ENGLISH" value="54" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

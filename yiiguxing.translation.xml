@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="tween.SetRelative() does not work for From variant of &quot;Move To Anchored Position&quot;, it must be set here instead. Not sure if this is a bug in DOTween or expected behaviour..." />
+      <item value="If applied to Sequences eases the whole sequence animation" />
+      <item value="Sets the ease of the tween." />
       <item value="Changes a TO tween into a FROM tween: sets the current target's position as the tween's endValue then immediately sends the target to the previously set endValue." />
       <item value="Generate Tween Internal" />
       <item value="Animation Sequencer" />
@@ -136,14 +139,11 @@
       <item value="form" />
       <item value="form Rim" />
       <item value="Disable Load Asset By File Name With Extension" />
-      <item value="Disable Load Asset By File Name" />
-      <item value="Chunk Based Compression" />
-      <item value="dependence" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="53" />
-        <entry key="ENGLISH" value="54" />
+        <entry key="CHINESE" value="56" />
+        <entry key="ENGLISH" value="57" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

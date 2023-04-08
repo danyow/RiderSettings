@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Work around a Unity bug where updating the colour does not cause any visual change outside of PlayMode." />
       <item value="tween.SetRelative() does not work for From variant of &quot;Move To Anchored Position&quot;, it must be set here instead. Not sure if this is a bug in DOTween or expected behaviour..." />
       <item value="If applied to Sequences eases the whole sequence animation" />
       <item value="Sets the ease of the tween." />
@@ -138,12 +139,11 @@
       <item value="from from" />
       <item value="form" />
       <item value="form Rim" />
-      <item value="Disable Load Asset By File Name With Extension" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="56" />
-        <entry key="ENGLISH" value="57" />
+        <entry key="CHINESE" value="57" />
+        <entry key="ENGLISH" value="58" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

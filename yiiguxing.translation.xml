@@ -82,13 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1680699081271" />
+    <option name="lastTrimTime" value="1681131712495" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="换行" />
       <item value="InvalidOperationException: Attempting to set the managed reference value on a SerializedProperty that is set to a 'SequenceConfig'" />
       <item value="Playback" />
       <item value="Flexible Space" />
@@ -138,11 +139,10 @@
       <item value="unsupported" />
       <item value="Supported Gradle Commands" />
       <item value="Support Gradle Commands" />
-      <item value="Get Scripting Define Symbols For Group" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="65" />
+        <entry key="CHINESE" value="66" />
         <entry key="ENGLISH" value="66" />
         <entry key="RUSSIAN" value="2" />
       </map>

@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Flexible Space" />
+      <item value="Redraw any inspectors that shows this editor." />
       <item value="that instructs Unity to serialize a field as a reference instead of as a value." />
       <item value="A that instructs Unity to serialize a field as a reference instead of as a value." />
       <item value="Reorderable List" />
@@ -137,13 +139,11 @@
       <item value="Get Scripting Define Symbols For Group" />
       <item value="_center Style" />
       <item value="un Valid" />
-      <item value="失败" />
-      <item value="文档" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

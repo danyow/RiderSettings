@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Base behaviour that has protected implementations of Unity lifecycle functions." />
       <item value="Tag for distinguishing table view." />
       <item value="k Default Reachable Edge Tolerance" />
       <item value="UI Table View Cell Life Cycle" />
@@ -138,12 +139,11 @@
       <item value="I Serialization Callback Receiver" />
       <item value="Exterior Set Zone Nav" />
       <item value="Distinct" />
-      <item value="Trim Excess" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="71" />
-        <entry key="ENGLISH" value="72" />
+        <entry key="CHINESE" value="72" />
+        <entry key="ENGLISH" value="73" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Tag for distinguishing table view." />
+      <item value="k Default Reachable Edge Tolerance" />
       <item value="UI Table View Cell Life Cycle" />
       <item value="Reachable" />
       <item value="Find Property Relative" />
@@ -137,13 +139,11 @@
       <item value="Exterior Set Zone Nav" />
       <item value="Distinct" />
       <item value="Trim Excess" />
-      <item value="define Symbols" />
-      <item value="不支持的" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="69" />
-        <entry key="ENGLISH" value="70" />
+        <entry key="CHINESE" value="71" />
+        <entry key="ENGLISH" value="72" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

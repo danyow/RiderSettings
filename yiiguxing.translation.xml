@@ -89,6 +89,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Rearrange Cell" />
+      <item value="_is Reaching Topmost Or Rightmost" />
+      <item value="Inertia" />
+      <item value="Scalar For Upper Margin In Table View" />
+      <item value="scalar" />
+      <item value="Scalar" />
+      <item value="Scalar For Cell In Table View" />
       <item value="Base behaviour that has protected implementations of Unity lifecycle functions." />
       <item value="Tag for distinguishing table view." />
       <item value="k Default Reachable Edge Tolerance" />
@@ -132,18 +139,11 @@
       <item value="Un Order Multi Map" />
       <item value="数据结构" />
       <item value="Proto Object" />
-      <item value="Dispose Object" />
-      <item value="Friend Of" />
-      <item value="Debug Updater" />
-      <item value="Win Period" />
-      <item value="I Serialization Callback Receiver" />
-      <item value="Exterior Set Zone Nav" />
-      <item value="Distinct" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="72" />
-        <entry key="ENGLISH" value="73" />
+        <entry key="CHINESE" value="79" />
+        <entry key="ENGLISH" value="80" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

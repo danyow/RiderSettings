@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="UI Table View Cell Life Cycle" />
+      <item value="Reachable" />
       <item value="Find Property Relative" />
       <item value="InvalidOperationException: Attempting to set the managed reference value on a SerializedProperty that is set to a 'SequenceConfig'" />
       <item value="换行" />
@@ -137,13 +139,11 @@
       <item value="Trim Excess" />
       <item value="define Symbols" />
       <item value="不支持的" />
-      <item value="unsupported" />
-      <item value="Supported Gradle Commands" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

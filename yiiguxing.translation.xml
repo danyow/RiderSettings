@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="selector" />
       <item value="Cell At Index In Table View Did Skip Selected" />
       <item value="Did Skip Selected" />
       <item value="Did Unselected" />
@@ -138,12 +139,11 @@
       <item value="_ugui Emitter" />
       <item value="Поле должно быть проинициализировано в инспекторе средствами редактора Unity." />
       <item value="Emitter system for uGui events to ECS world." />
-      <item value="Singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="85" />
+        <entry key="ENGLISH" value="86" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

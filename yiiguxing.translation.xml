@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Impulse Move" />
       <item value="Projectile Facade" />
       <item value="spread" />
       <item value="List Pool." />
@@ -138,13 +139,12 @@
       <item value="Changes a TO tween into a FROM tween: sets the current target's position as the tween's endValue then immediately sends the target to the previously set endValue." />
       <item value="Generate Tween Internal" />
       <item value="Animation Sequencer" />
-      <item value="requires Reset" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="97" />
+        <entry key="CHINESE" value="98" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="98" />
+        <entry key="ENGLISH" value="99" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

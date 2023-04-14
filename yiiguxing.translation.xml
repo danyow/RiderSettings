@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="开火" />
+      <item value="Utility" />
       <item value="jumpable Ground" />
       <item value="生成动态" />
       <item value="switch" />
@@ -137,14 +139,12 @@
       <item value="Knob" />
       <item value="Achievement" />
       <item value="Idents" />
-      <item value="Preserve" />
-      <item value="Del Here" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="90" />
+        <entry key="CHINESE" value="92" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

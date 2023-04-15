@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Falling" />
+      <item value="Fall" />
+      <item value="_is Fall" />
       <item value="间隔时间" />
       <item value="_已生存时间" />
       <item value="time To Live" />
@@ -136,15 +139,12 @@
       <item value="toggle" />
       <item value="tog Handle" />
       <item value="is Validate Function" />
-      <item value="selector" />
-      <item value="Cell At Index In Table View Did Skip Selected" />
-      <item value="Did Skip Selected" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="127" />
+        <entry key="CHINESE" value="130" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="127" />
+        <entry key="ENGLISH" value="131" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

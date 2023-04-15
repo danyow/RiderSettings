@@ -82,13 +82,16 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1681131712495" />
+    <option name="lastTrimTime" value="1681570292614" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="偏移" />
+      <item value="实际" />
+      <item value="Hitting" />
       <item value="Falling" />
       <item value="Fall" />
       <item value="_is Fall" />
@@ -136,15 +139,12 @@
       <item value="jumpable Ground" />
       <item value="生成动态" />
       <item value="switch" />
-      <item value="toggle" />
-      <item value="tog Handle" />
-      <item value="is Validate Function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="130" />
+        <entry key="CHINESE" value="133" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="131" />
+        <entry key="ENGLISH" value="133" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="脚" />
+      <item value="强制" />
+      <item value="force" />
       <item value="enemy Layer" />
       <item value="Stepped On The Enemy" />
       <item value="Is Stepped On The Enemy" />
@@ -136,15 +139,12 @@
       <item value="Rearrange Cell" />
       <item value="_is Reaching Topmost Or Rightmost" />
       <item value="Inertia" />
-      <item value="Scalar For Upper Margin In Table View" />
-      <item value="scalar" />
-      <item value="Scalar" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="119" />
+        <entry key="CHINESE" value="122" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="120" />
+        <entry key="ENGLISH" value="122" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

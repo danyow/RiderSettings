@@ -89,6 +89,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="落地" />
+      <item value="Bullet Casings" />
+      <item value="子弹壳" />
+      <item value="Muzzle" />
+      <item value="Sound Type" />
       <item value="Metronome" />
       <item value="Enemy Knock Back" />
       <item value="Impact Effects" />
@@ -104,7 +109,6 @@
       <item value="spread" />
       <item value="List Pool." />
       <item value="Generic pool." />
-      <item value="子弹壳" />
       <item value="弹壳" />
       <item value="开火" />
       <item value="Utility" />
@@ -135,16 +139,12 @@
       <item value="Find Property Relative" />
       <item value="InvalidOperationException: Attempting to set the managed reference value on a SerializedProperty that is set to a 'SequenceConfig'" />
       <item value="换行" />
-      <item value="Playback" />
-      <item value="Flexible Space" />
-      <item value="Redraw any inspectors that shows this editor." />
-      <item value="that instructs Unity to serialize a field as a reference instead of as a value." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="108" />
+        <entry key="CHINESE" value="112" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="109" />
+        <entry key="ENGLISH" value="112" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

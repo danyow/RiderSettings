@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Dont Require Receiver" />
       <item value="敌人" />
       <item value="小兵" />
       <item value="怪物" />
@@ -138,13 +139,12 @@
       <item value="Used by the CustomEditor so it knows when to reset to the defaults." />
       <item value="Work around a Unity bug where updating the colour does not cause any visual change outside of PlayMode." />
       <item value="tween.SetRelative() does not work for From variant of &quot;Move To Anchored Position&quot;, it must be set here instead. Not sure if this is a bug in DOTween or expected behaviour..." />
-      <item value="If applied to Sequences eases the whole sequence animation" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="103" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

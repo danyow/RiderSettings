@@ -89,6 +89,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="enemy Layer" />
+      <item value="Stepped On The Enemy" />
+      <item value="Is Stepped On The Enemy" />
+      <item value="Is Stepped Enemy" />
+      <item value="踩到了敌人" />
       <item value="产卵地" />
       <item value="产卵" />
       <item value="Play Sound Interior" />
@@ -134,17 +139,12 @@
       <item value="Scalar For Upper Margin In Table View" />
       <item value="scalar" />
       <item value="Scalar" />
-      <item value="Scalar For Cell In Table View" />
-      <item value="Base behaviour that has protected implementations of Unity lifecycle functions." />
-      <item value="Tag for distinguishing table view." />
-      <item value="k Default Reachable Edge Tolerance" />
-      <item value="UI Table View Cell Life Cycle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
+        <entry key="CHINESE" value="119" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="115" />
+        <entry key="ENGLISH" value="120" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

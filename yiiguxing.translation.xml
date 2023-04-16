@@ -89,10 +89,18 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Firring" />
+      <item value="Firing" />
+      <item value="实际" />
+      <item value="towards" />
+      <item value="朝向" />
+      <item value="forward" />
+      <item value="velocity" />
+      <item value="Add an instant force impulse to the rigidbody2D, using its mass" />
+      <item value="Impulse" />
       <item value="Gun Kick" />
       <item value="Smooth Damp" />
       <item value="偏移" />
-      <item value="实际" />
       <item value="Hitting" />
       <item value="Falling" />
       <item value="Fall" />
@@ -131,20 +139,13 @@
       <item value="怪物" />
       <item value="Character Controller 2 D" />
       <item value="Impulse Move" />
-      <item value="Projectile Facade" />
-      <item value="spread" />
-      <item value="List Pool." />
-      <item value="Generic pool." />
-      <item value="弹壳" />
-      <item value="开火" />
-      <item value="Utility" />
-      <item value="jumpable Ground" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="134" />
+        <entry key="CHINESE" value="140" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="135" />
+        <entry key="ENGLISH" value="141" />
+        <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

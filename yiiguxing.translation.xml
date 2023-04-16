@@ -89,13 +89,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Metronome" />
       <item value="Recorded Loop Config" />
       <item value="bpm" />
       <item value="metronome Loop" />
       <item value="beats Per Metronome Loop" />
       <item value="Loop" />
       <item value="loop Sequence" />
-      <item value="Metronome" />
       <item value="snare" />
       <item value="kick" />
       <item value="Meaning Music" />
@@ -142,9 +142,9 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="156" />
+        <entry key="CHINESE" value="157" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="157" />
+        <entry key="ENGLISH" value="158" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

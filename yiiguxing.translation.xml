@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Meaning Music" />
       <item value="enemy Collection" />
       <item value="_player Center X" />
       <item value="扩散" />
@@ -138,13 +139,12 @@
       <item value="Metronome" />
       <item value="Enemy Knock Back" />
       <item value="Impact Effects" />
-      <item value="Less Accuracy" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="146" />
+        <entry key="CHINESE" value="147" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="147" />
+        <entry key="ENGLISH" value="148" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Box Cast" />
       <item value="Jump Without Sound" />
       <item value="spend" />
       <item value="_spend Time" />
@@ -138,13 +139,12 @@
       <item value="Stepped On The Enemy" />
       <item value="Is Stepped On The Enemy" />
       <item value="Is Stepped Enemy" />
-      <item value="踩到了敌人" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="160" />
+        <entry key="CHINESE" value="161" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="161" />
+        <entry key="ENGLISH" value="162" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

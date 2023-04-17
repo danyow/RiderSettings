@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="allow Destroying Assets" />
       <item value="deamge" />
       <item value="伤害" />
       <item value="at End Jump To Index" />
@@ -138,13 +139,12 @@
       <item value="脚" />
       <item value="强制" />
       <item value="force" />
-      <item value="enemy Layer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
+        <entry key="CHINESE" value="164" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

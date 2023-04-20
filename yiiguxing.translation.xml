@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="全匹配" />
+      <item value="邻居" />
       <item value="Compute Is Land Distance" />
       <item value="列" />
       <item value="visited" />
@@ -137,14 +139,12 @@
       <item value="Fall" />
       <item value="_is Fall" />
       <item value="间隔时间" />
-      <item value="_已生存时间" />
-      <item value="time To Live" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
+        <entry key="CHINESE" value="171" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="ENGLISH" value="171" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

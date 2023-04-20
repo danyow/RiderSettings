@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="列" />
+      <item value="visited" />
+      <item value="Check Around Is Land" />
       <item value="Partition" />
       <item value="largest" />
       <item value="allow Destroying Assets" />
@@ -136,15 +139,12 @@
       <item value="_已生存时间" />
       <item value="time To Live" />
       <item value="_time To Live" />
-      <item value="_存活时间" />
-      <item value="计算器" />
-      <item value="脚" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="166" />
+        <entry key="CHINESE" value="169" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="167" />
+        <entry key="ENGLISH" value="169" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

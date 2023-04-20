@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Partition" />
       <item value="largest" />
       <item value="allow Destroying Assets" />
       <item value="deamge" />
@@ -138,13 +139,12 @@
       <item value="_存活时间" />
       <item value="计算器" />
       <item value="脚" />
-      <item value="强制" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
+        <entry key="CHINESE" value="166" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

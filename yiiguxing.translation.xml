@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Force" />
       <item value="Margin" />
       <item value="view Reachable" />
       <item value="全匹配" />
@@ -138,13 +139,12 @@
       <item value="偏移" />
       <item value="Hitting" />
       <item value="Falling" />
-      <item value="Fall" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="172" />
+        <entry key="CHINESE" value="173" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="173" />
+        <entry key="ENGLISH" value="174" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

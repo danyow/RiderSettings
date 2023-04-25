@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="The offset of the upper right corner of the rectangle relative to the upper right anchor." />
+      <item value="Enum used to specify one edge of a rectangle." />
+      <item value="Set Size With Current Anchors" />
       <item value="破环" />
       <item value="is Force" />
       <item value="Margin" />
@@ -136,15 +139,12 @@
       <item value="Add an instant force impulse to the rigidbody2D, using its mass" />
       <item value="Impulse" />
       <item value="Gun Kick" />
-      <item value="Smooth Damp" />
-      <item value="偏移" />
-      <item value="Hitting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="174" />
+        <entry key="CHINESE" value="176" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="ENGLISH" value="177" />
         <entry key="GERMAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>

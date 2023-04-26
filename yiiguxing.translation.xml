@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="regenerate If Exists" />
       <item value="The offset of the upper right corner of the rectangle relative to the upper right anchor." />
       <item value="Enum used to specify one edge of a rectangle." />
       <item value="Set Size With Current Anchors" />
@@ -138,7 +139,6 @@
       <item value="velocity" />
       <item value="Add an instant force impulse to the rigidbody2D, using its mass" />
       <item value="Impulse" />
-      <item value="Gun Kick" />
     </histories>
     <option name="languageScores">
       <map>

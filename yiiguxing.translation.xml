@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="cate Id" />
+      <item value="DO Virtual" />
+      <item value="Delay Play Work" />
       <item value="regenerate If Exists" />
       <item value="The offset of the upper right corner of the rectangle relative to the upper right anchor." />
       <item value="Enum used to specify one edge of a rectangle." />
@@ -136,16 +139,14 @@
       <item value="towards" />
       <item value="朝向" />
       <item value="forward" />
-      <item value="velocity" />
-      <item value="Add an instant force impulse to the rigidbody2D, using its mass" />
-      <item value="Impulse" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="176" />
+        <entry key="CHINESE" value="178" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="177" />
+        <entry key="ENGLISH" value="179" />
         <entry key="GERMAN" value="1" />
+        <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

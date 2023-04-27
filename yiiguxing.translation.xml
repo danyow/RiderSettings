@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Peek" />
       <item value="cate Id" />
       <item value="DO Virtual" />
       <item value="Delay Play Work" />
@@ -138,13 +139,12 @@
       <item value="实际" />
       <item value="towards" />
       <item value="朝向" />
-      <item value="forward" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="178" />
+        <entry key="CHINESE" value="179" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

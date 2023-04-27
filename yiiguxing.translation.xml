@@ -89,6 +89,10 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="不弹出" />
+      <item value="不流行" />
+      <item value="Pop" />
+      <item value="dont Pop" />
       <item value="是否是容器" />
       <item value="is Contain" />
       <item value="Peek" />
@@ -135,16 +139,13 @@
       <item value="Enemy Death" />
       <item value="Bullet Casing Bounciness" />
       <item value="Bullect Casing Bounciness" />
-      <item value="bullet Casing" />
-      <item value="is Firring" />
-      <item value="Firing" />
-      <item value="实际" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="181" />
+        <entry key="CHINESE" value="183" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="ENGLISH" value="183" />
+        <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

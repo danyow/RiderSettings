@@ -82,13 +82,15 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682139236728" />
+    <option name="lastTrimTime" value="1682599701972" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="是否是容器" />
+      <item value="is Contain" />
       <item value="Peek" />
       <item value="cate Id" />
       <item value="DO Virtual" />
@@ -137,14 +139,12 @@
       <item value="is Firring" />
       <item value="Firing" />
       <item value="实际" />
-      <item value="towards" />
-      <item value="朝向" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="179" />
+        <entry key="CHINESE" value="181" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="180" />
+        <entry key="ENGLISH" value="181" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

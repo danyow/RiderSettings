@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="关闭者" />
+      <item value="Close" />
+      <item value="I Pop Closer" />
       <item value="Entry View" />
       <item value="I View Event Handler" />
       <item value="不弹出" />
@@ -136,15 +139,12 @@
       <item value="kick" />
       <item value="Meaning Music" />
       <item value="enemy Collection" />
-      <item value="_player Center X" />
-      <item value="扩散" />
-      <item value="Enemy Death" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
+        <entry key="CHINESE" value="187" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="ENGLISH" value="187" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

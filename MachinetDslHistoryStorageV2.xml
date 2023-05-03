@@ -1,0 +1,18 @@
+<application>
+  <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
+    <option name="historyDtoById">
+      <map>
+        <entry key="6897e3">
+          <value>
+            <ChatHistoryModel>
+              <option name="id" value="6897e3" />
+              <option name="initiateTms" value="1683118372863" />
+              <option name="request" value="Hi" />
+              <option name="response" value="" />
+            </ChatHistoryModel>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

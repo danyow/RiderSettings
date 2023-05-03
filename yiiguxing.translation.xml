@@ -89,6 +89,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="我的" />
+      <item value="Mine" />
+      <item value="k Mine Index" />
       <item value="I View Neighbor Finder" />
       <item value="关闭者" />
       <item value="Close" />
@@ -136,15 +139,12 @@
       <item value="beats Per Metronome Loop" />
       <item value="Loop" />
       <item value="loop Sequence" />
-      <item value="snare" />
-      <item value="kick" />
-      <item value="Meaning Music" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
+        <entry key="CHINESE" value="190" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="ENGLISH" value="190" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

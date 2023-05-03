@@ -82,13 +82,14 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1682599701972" />
+    <option name="lastTrimTime" value="1683080397648" />
   </component>
   <component name="Translation.Settings">
     <option name="translator" value="MICROSOFT" />
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="I View Neighbor Finder" />
       <item value="关闭者" />
       <item value="Close" />
       <item value="I Pop Closer" />
@@ -138,13 +139,12 @@
       <item value="snare" />
       <item value="kick" />
       <item value="Meaning Music" />
-      <item value="enemy Collection" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="187" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="187" />
+        <entry key="ENGLISH" value="188" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Rearrange Data" />
       <item value="我的" />
       <item value="Mine" />
       <item value="k Mine Index" />
@@ -138,7 +139,6 @@
       <item value="metronome Loop" />
       <item value="beats Per Metronome Loop" />
       <item value="Loop" />
-      <item value="loop Sequence" />
     </histories>
     <option name="languageScores">
       <map>

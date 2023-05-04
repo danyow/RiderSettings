@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="_hidden Tab Card View Focus Index" />
+      <item value="hide Tab Card View Focus Index" />
       <item value="Check Step" />
       <item value="Rearrange Data" />
       <item value="Ai Previous Metope" />
@@ -137,14 +139,12 @@
       <item value="_spend Time" />
       <item value="Metronome" />
       <item value="Recorded Loop Config" />
-      <item value="bpm" />
-      <item value="metronome Loop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="191" />
+        <entry key="CHINESE" value="192" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Ai Previous Metope" />
       <item value="Rearrange Data" />
       <item value="我的" />
       <item value="Mine" />
@@ -138,7 +139,6 @@
       <item value="bpm" />
       <item value="metronome Loop" />
       <item value="beats Per Metronome Loop" />
-      <item value="Loop" />
     </histories>
     <option name="languageScores">
       <map>
@@ -148,6 +148,7 @@
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
+        <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="2" />
       </map>
     </option>

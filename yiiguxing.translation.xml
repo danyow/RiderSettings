@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="is Animating" />
       <item value="白" />
       <item value="_hidden Tab Card View Focus Index" />
       <item value="hide Tab Card View Focus Index" />
@@ -138,7 +139,6 @@
       <item value="Jump Without Sound" />
       <item value="spend" />
       <item value="_spend Time" />
-      <item value="Metronome" />
     </histories>
     <option name="languageScores">
       <map>

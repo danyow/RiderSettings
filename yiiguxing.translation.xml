@@ -89,6 +89,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="白" />
       <item value="_hidden Tab Card View Focus Index" />
       <item value="hide Tab Card View Focus Index" />
       <item value="Check Step" />
@@ -138,11 +139,10 @@
       <item value="spend" />
       <item value="_spend Time" />
       <item value="Metronome" />
-      <item value="Recorded Loop Config" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
+        <entry key="CHINESE" value="193" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="193" />
         <entry key="FRENCH" value="1" />

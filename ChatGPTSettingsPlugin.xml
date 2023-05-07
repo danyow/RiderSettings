@@ -1,0 +1,11 @@
+<application>
+  <component name="com.obiscr.chatgpt.settings.OpenAISettingsState">
+    <option name="accessToken" value="eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJpLnp1b2lhQGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjp0cnVlfSwiaHR0cHM6Ly9hcGkub3BlbmFpLmNvbS9hdXRoIjp7InVzZXJfaWQiOiJ1c2VyLTFxUU1VRTQyamZadFc0dmpJUkJvSEdWVyJ9LCJpc3MiOiJodHRwczovL2F1dGgwLm9wZW5haS5jb20vIiwic3ViIjoiYXV0aDB8NjNlZWRjZTFhYzdhNjdjN2M5NjY2MzQ0IiwiYXVkIjpbImh0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEiLCJodHRwczovL29wZW5haS5vcGVuYWkuYXV0aDBhcHAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY4MzI5OTA2OCwiZXhwIjoxNjg0NTA4NjY4LCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9mZmxpbmVfYWNjZXNzIn0.moJZxMAVpaCZPjhzGB5OepohzdqqykPZYv8R5OpWtzTFOFeEg8ZecUi7stKH0SKdETAyO6PqEXVmEBIn6FkkBz1ez-GY8rnjOGEja4eMrE0SYTrMVqLZPGVcai4CLcIYl38OZOnk8ViBcj1nGdeuFuGrfkqqYqwLgaEpziBQ0BClArAr5MePHRdwmVLowNi9k03NcCLMMV2qlygS2wYg3zLfCuFJoz9KPDQAimkNwNxcvtibv404MkOtktWO3Uhiijx7xg0n-IGCavfrKKsCucHzTa4cLqbhrQ8qDq6LAziMionL8oDFtKhuitcGDtzyOMB0GpTNo72qyJWLA1zT2w" />
+    <option name="expireTime" value="2023-06-06T11:19:43.343Z" />
+    <customPrompts>
+      <map>
+        <entry key="添加注释" value="给下面代码在合理的位置添加合理的中文注释，使得代码易于理解，在不改变原逻辑的情况下如有必要可以适当优化代码，如果代码内有BUG，请添加//FIXME指出，并给出解决方案。" />
+      </map>
+    </customPrompts>
+  </component>
+</application>

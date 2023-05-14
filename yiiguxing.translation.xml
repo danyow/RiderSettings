@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="预设" />
       <item value="differ Key Animations" />
       <item value="不同" />
       <item value="dif Key Animations" />
@@ -135,11 +136,10 @@
       <item value="Partition" />
       <item value="largest" />
       <item value="allow Destroying Assets" />
-      <item value="deamge" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="197" />
+        <entry key="CHINESE" value="198" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="198" />
         <entry key="FRENCH" value="1" />

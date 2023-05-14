@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Load All Asset Representations At Path" />
       <item value="预设" />
       <item value="differ Key Animations" />
       <item value="不同" />
@@ -135,13 +136,12 @@
       <item value="Check Around Is Land" />
       <item value="Partition" />
       <item value="largest" />
-      <item value="allow Destroying Assets" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="198" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="198" />
+        <entry key="ENGLISH" value="199" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

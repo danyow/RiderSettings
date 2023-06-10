@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Igo" />
+      <item value="井号" />
       <item value="遍历父节点" />
       <item value="Positive Infinity" />
       <item value="权重" />
@@ -137,16 +139,16 @@
       <item value="破环" />
       <item value="is Force" />
       <item value="Margin" />
-      <item value="view Reachable" />
-      <item value="全匹配" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="205" />
+        <entry key="BASQUE" value="1" />
+        <entry key="CHINESE" value="206" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="205" />
+        <entry key="ENGLISH" value="206" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

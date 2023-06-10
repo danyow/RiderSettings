@@ -84,8 +84,12 @@
   <component name="Translation.Cache">
     <option name="lastTrimTime" value="1686007894409" />
   </component>
+  <component name="Translation.Settings">
+    <option name="translator" value="MICROSOFT" />
+  </component>
   <component name="Translation.States">
     <histories>
+      <item value="遍历父节点" />
       <item value="Positive Infinity" />
       <item value="权重" />
       <item value="递归" />
@@ -135,11 +139,10 @@
       <item value="Margin" />
       <item value="view Reachable" />
       <item value="全匹配" />
-      <item value="邻居" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="204" />
+        <entry key="CHINESE" value="205" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="205" />
         <entry key="FRENCH" value="1" />

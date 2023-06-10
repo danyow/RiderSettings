@@ -86,6 +86,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Positive Infinity" />
+      <item value="权重" />
       <item value="递归" />
       <item value="include Inactive" />
       <item value="Returns a constraint which does not filter the results" />
@@ -134,14 +136,12 @@
       <item value="view Reachable" />
       <item value="全匹配" />
       <item value="邻居" />
-      <item value="Compute Is Land Distance" />
-      <item value="列" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="202" />
+        <entry key="CHINESE" value="204" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="202" />
+        <entry key="ENGLISH" value="205" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

@@ -89,6 +89,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Get Command Line Value From Key" />
+      <item value="Asteroid Job" />
+      <item value="A simple struct used to represent a network tick. This is using a uint internally, but it has special logic to deal with invalid ticks, and it handles wrap around correctly." />
+      <item value="Ghost Authoring Component" />
+      <item value="Inherit this class to bake an authoring component." />
+      <item value="Disallow Multiple Component" />
+      <item value="Transition Duration Seconds" />
       <item value="barrack" />
       <item value="What this prop is consist of, and The receipt of this prop When this num is negative, it means for example one gold can craft 2 coins, but in coin, it contains -2 gold" />
       <item value="Related prop, useful for levelcomponent and skin changes" />
@@ -132,21 +139,14 @@
       <item value="不流行" />
       <item value="Pop" />
       <item value="dont Pop" />
-      <item value="是否是容器" />
-      <item value="is Contain" />
-      <item value="Peek" />
-      <item value="cate Id" />
-      <item value="DO Virtual" />
-      <item value="Delay Play Work" />
-      <item value="regenerate If Exists" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BASQUE" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="208" />
+        <entry key="CHINESE" value="213" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="209" />
+        <entry key="ENGLISH" value="214" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="JAPANESE" value="1" />

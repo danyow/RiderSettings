@@ -89,6 +89,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Usernames should be a min length and not contain any funky characters." />
+      <item value="Desired Username" />
       <item value="Get Command Line Value From Key" />
       <item value="Asteroid Job" />
       <item value="A simple struct used to represent a network tick. This is using a uint internally, but it has special logic to deal with invalid ticks, and it handles wrap around correctly." />
@@ -137,16 +139,14 @@
       <item value="I View Event Handler" />
       <item value="不弹出" />
       <item value="不流行" />
-      <item value="Pop" />
-      <item value="dont Pop" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="BASQUE" value="1" />
         <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="213" />
+        <entry key="CHINESE" value="215" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="ENGLISH" value="216" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="JAPANESE" value="1" />

@@ -82,34 +82,10 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1686487117568" />
-  </component>
-  <component name="Translation.Settings">
-    <option name="translator" value="MICROSOFT" />
+    <option name="lastTrimTime" value="1686007894409" />
   </component>
   <component name="Translation.States">
     <histories>
-      <item value="Usernames should be a min length and not contain any funky characters." />
-      <item value="Desired Username" />
-      <item value="Get Command Line Value From Key" />
-      <item value="Asteroid Job" />
-      <item value="A simple struct used to represent a network tick. This is using a uint internally, but it has special logic to deal with invalid ticks, and it handles wrap around correctly." />
-      <item value="Ghost Authoring Component" />
-      <item value="Inherit this class to bake an authoring component." />
-      <item value="Disallow Multiple Component" />
-      <item value="Transition Duration Seconds" />
-      <item value="barrack" />
-      <item value="What this prop is consist of, and The receipt of this prop When this num is negative, it means for example one gold can craft 2 coins, but in coin, it contains -2 gold" />
-      <item value="Related prop, useful for levelcomponent and skin changes" />
-      <item value="Prop" />
-      <item value="m Persistent Calls" />
-      <item value="Get Persistent Event Count" />
-      <item value="Igo" />
-      <item value="井号" />
-      <item value="遍历父节点" />
-      <item value="Positive Infinity" />
-      <item value="权重" />
-      <item value="递归" />
       <item value="include Inactive" />
       <item value="Returns a constraint which does not filter the results" />
       <item value="Returns the nearest node to a position using the specified NNConstraint. Searches through all graphs for their nearest nodes to the specified position and picks the closest one. The NNConstraint can be used to specify constraints on which nodes can be chosen such as only picking walkable nodes." />
@@ -139,17 +115,35 @@
       <item value="I View Event Handler" />
       <item value="不弹出" />
       <item value="不流行" />
+      <item value="Pop" />
+      <item value="dont Pop" />
+      <item value="是否是容器" />
+      <item value="is Contain" />
+      <item value="Peek" />
+      <item value="cate Id" />
+      <item value="DO Virtual" />
+      <item value="Delay Play Work" />
+      <item value="regenerate If Exists" />
+      <item value="The offset of the upper right corner of the rectangle relative to the upper right anchor." />
+      <item value="Enum used to specify one edge of a rectangle." />
+      <item value="Set Size With Current Anchors" />
+      <item value="破环" />
+      <item value="is Force" />
+      <item value="Margin" />
+      <item value="view Reachable" />
+      <item value="全匹配" />
+      <item value="邻居" />
+      <item value="Compute Is Land Distance" />
+      <item value="列" />
+      <item value="visited" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="BASQUE" value="1" />
-        <entry key="CATALAN" value="1" />
-        <entry key="CHINESE" value="215" />
+        <entry key="CHINESE" value="201" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="202" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
-        <entry key="JAPANESE" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

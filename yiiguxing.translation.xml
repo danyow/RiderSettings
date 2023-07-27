@@ -86,6 +86,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="in Mosaic Mode" />
       <item value="include Inactive" />
       <item value="Returns a constraint which does not filter the results" />
       <item value="Returns the nearest node to a position using the specified NNConstraint. Searches through all graphs for their nearest nodes to the specified position and picks the closest one. The NNConstraint can be used to specify constraints on which nodes can be chosen such as only picking walkable nodes." />
@@ -135,7 +136,6 @@
       <item value="邻居" />
       <item value="Compute Is Land Distance" />
       <item value="列" />
-      <item value="visited" />
     </histories>
     <option name="languageScores">
       <map>

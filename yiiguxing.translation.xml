@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="方向" />
       <item value="Creates a preconfigured binding for a curve where values should not be interpolated" />
       <item value="Creates a preconfigured binding for a curve where values should not be interpolated." />
       <item value="Creates a preconfigured binding for a curve that points to an Object.&lt;" />
@@ -144,11 +145,10 @@
       <item value="regenerate If Exists" />
       <item value="The offset of the upper right corner of the rectangle relative to the upper right anchor." />
       <item value="Enum used to specify one edge of a rectangle." />
-      <item value="Set Size With Current Anchors" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="206" />
+        <entry key="CHINESE" value="207" />
         <entry key="DANISH" value="1" />
         <entry key="ENGLISH" value="207" />
         <entry key="FRENCH" value="1" />

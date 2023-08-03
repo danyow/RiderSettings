@@ -82,7 +82,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1690503136385" />
+    <option name="lastTrimTime" value="1691071008480" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -95,6 +95,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="depth Stencil Format" />
+      <item value="stencil Format" />
       <item value="Creator" />
       <item value="击中的" />
       <item value="击中地" />
@@ -143,14 +145,12 @@
       <item value="dont Pop" />
       <item value="是否是容器" />
       <item value="is Contain" />
-      <item value="Peek" />
-      <item value="cate Id" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="211" />
+        <entry key="CHINESE" value="213" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="212" />
+        <entry key="ENGLISH" value="214" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

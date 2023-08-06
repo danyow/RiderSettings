@@ -95,6 +95,8 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="destination State" />
+      <item value="transitions" />
       <item value="depth Stencil Format" />
       <item value="stencil Format" />
       <item value="Creator" />
@@ -143,14 +145,12 @@
       <item value="不流行" />
       <item value="Pop" />
       <item value="dont Pop" />
-      <item value="是否是容器" />
-      <item value="is Contain" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="213" />
+        <entry key="CHINESE" value="215" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="214" />
+        <entry key="ENGLISH" value="216" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

@@ -95,6 +95,14 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Chat Capability" />
+      <item value="AUTH PACKAGE PRESENT" />
+      <item value="justify-content" />
+      <item value="allow Scene Activation" />
+      <item value="Async Operation" />
+      <item value="多语言" />
+      <item value="None" />
+      <item value="Flex" />
       <item value="destination State" />
       <item value="transitions" />
       <item value="depth Stencil Format" />
@@ -137,20 +145,12 @@
       <item value="k Mine Index" />
       <item value="I View Neighbor Finder" />
       <item value="关闭者" />
-      <item value="Close" />
-      <item value="I Pop Closer" />
-      <item value="Entry View" />
-      <item value="I View Event Handler" />
-      <item value="不弹出" />
-      <item value="不流行" />
-      <item value="Pop" />
-      <item value="dont Pop" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="215" />
+        <entry key="CHINESE" value="221" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="216" />
+        <entry key="ENGLISH" value="222" />
         <entry key="FRENCH" value="1" />
         <entry key="GERMAN" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />

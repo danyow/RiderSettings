@@ -1,0 +1,6 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <ignored-resource url="UnityEditor.UIElements" />
+    <ignored-resource url="UnityEngine.UIElements" />
+  </component>
+</application>

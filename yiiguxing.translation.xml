@@ -95,6 +95,26 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="grip" />
+      <item value="Is Steering" />
+      <item value="Rear Right" />
+      <item value="Wheel Placement" />
+      <item value="wheels Collision Mask" />
+      <item value="body Collision Mask" />
+      <item value="drive Torque Curve" />
+      <item value="max Drive Torque" />
+      <item value="drive Torque" />
+      <item value="down Force" />
+      <item value="anti Roll Stiffness" />
+      <item value="Collision Categories" />
+      <item value="Anti Roll Bar" />
+      <item value="steering Force" />
+      <item value="turn Radius" />
+      <item value="Steering" />
+      <item value="damper Stiffness" />
+      <item value="spring Stiffness" />
+      <item value="Rest Length" />
+      <item value="Authoring" />
       <item value="Renderable" />
       <item value="Transform Usage Flags" />
       <item value="Internal Buffer Capacity" />
@@ -125,32 +145,12 @@
       <item value="击中地" />
       <item value="击中de" />
       <item value="击中得" />
-      <item value="方向" />
-      <item value="Creates a preconfigured binding for a curve where values should not be interpolated" />
-      <item value="Creates a preconfigured binding for a curve where values should not be interpolated." />
-      <item value="Creates a preconfigured binding for a curve that points to an Object.&lt;" />
-      <item value="Adds objectToAdd to an existing asset identified by assetObject." />
-      <item value="Create Sprite Without Texture Scripting" />
-      <item value="Abstract base class for custom Asset importers." />
-      <item value="Experimental" />
-      <item value="Moved From" />
-      <item value="in Mosaic Mode" />
-      <item value="include Inactive" />
-      <item value="Returns a constraint which does not filter the results" />
-      <item value="Returns the nearest node to a position using the specified NNConstraint. Searches through all graphs for their nearest nodes to the specified position and picks the closest one. The NNConstraint can be used to specify constraints on which nodes can be chosen such as only picking walkable nodes." />
-      <item value="Load All Asset Representations At Path" />
-      <item value="预设" />
-      <item value="differ Key Animations" />
-      <item value="不同" />
-      <item value="dif Key Animations" />
-      <item value="un Same Key Animations" />
-      <item value="Spherically" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
+        <entry key="CHINESE" value="254" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="ENGLISH" value="255" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

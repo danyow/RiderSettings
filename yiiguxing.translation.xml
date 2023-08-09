@@ -95,6 +95,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Create And Play Music Audio Source Once" />
+      <item value="Update Pitch And Volume" />
+      <item value="Update Position" />
       <item value="finite" />
       <item value="isfinite" />
       <item value="_additive Scene" />
@@ -142,15 +145,12 @@
       <item value="lent" />
       <item value="is Animating" />
       <item value="白" />
-      <item value="_hidden Tab Card View Focus Index" />
-      <item value="hide Tab Card View Focus Index" />
-      <item value="Check Step" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
+        <entry key="CHINESE" value="230" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="ENGLISH" value="231" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

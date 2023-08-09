@@ -95,6 +95,23 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="rest Length" />
+      <item value="Send Data For Child Entity" />
+      <item value="Ghost Component" />
+      <item value="Stores suspension parameters for physics" />
+      <item value="Suspension" />
+      <item value="Assign the chassis entity to the wheel for later processing" />
+      <item value="chassis" />
+      <item value="Chassis Reference" />
+      <item value="With Structural Changes" />
+      <item value="Include Prefab" />
+      <item value="With Entity Query Options" />
+      <item value="Post Baking System Group" />
+      <item value="Baking System" />
+      <item value="Temporary Baking Type" />
+      <item value="Lap Progress" />
+      <item value="Wheel Spring 0" />
+      <item value="Wheel Visual 0" />
       <item value="grip" />
       <item value="Is Steering" />
       <item value="Rear Right" />
@@ -128,29 +145,12 @@
       <item value="pitch Curve" />
       <item value="initial Audio Source Volume" />
       <item value="Additive Audio Source Scene" />
-      <item value="Chat Capability" />
-      <item value="AUTH PACKAGE PRESENT" />
-      <item value="justify-content" />
-      <item value="allow Scene Activation" />
-      <item value="Async Operation" />
-      <item value="多语言" />
-      <item value="None" />
-      <item value="Flex" />
-      <item value="destination State" />
-      <item value="transitions" />
-      <item value="depth Stencil Format" />
-      <item value="stencil Format" />
-      <item value="Creator" />
-      <item value="击中的" />
-      <item value="击中地" />
-      <item value="击中de" />
-      <item value="击中得" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="254" />
+        <entry key="CHINESE" value="273" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="255" />
+        <entry key="ENGLISH" value="274" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

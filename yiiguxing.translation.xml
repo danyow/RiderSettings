@@ -82,7 +82,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1691071008480" />
+    <option name="lastTrimTime" value="1691580380235" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -95,6 +95,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="finite" />
+      <item value="isfinite" />
+      <item value="_additive Scene" />
+      <item value="reverb Zones" />
+      <item value="pitch Curve" />
+      <item value="initial Audio Source Volume" />
+      <item value="Additive Audio Source Scene" />
       <item value="Chat Capability" />
       <item value="AUTH PACKAGE PRESENT" />
       <item value="justify-content" />
@@ -138,21 +145,15 @@
       <item value="_hidden Tab Card View Focus Index" />
       <item value="hide Tab Card View Focus Index" />
       <item value="Check Step" />
-      <item value="Rearrange Data" />
-      <item value="Ai Previous Metope" />
-      <item value="我的" />
-      <item value="Mine" />
-      <item value="k Mine Index" />
-      <item value="I View Neighbor Finder" />
-      <item value="关闭者" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="221" />
+        <entry key="CHINESE" value="227" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="222" />
-        <entry key="FRENCH" value="1" />
+        <entry key="ENGLISH" value="228" />
+        <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
+        <entry key="MALTESE" value="1" />
         <entry key="PORTUGUESE_BRAZILIAN" value="1" />
         <entry key="ROMANIAN" value="1" />
         <entry key="RUSSIAN" value="2" />

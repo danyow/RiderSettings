@@ -95,13 +95,46 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Wheel Spring 0" />
+      <item value="is Steering" />
+      <item value="wheel Spring 0" />
+      <item value="vehicle Chassis" />
+      <item value="chassis" />
+      <item value="Anti Roll Bar" />
+      <item value="Authoring" />
+      <item value="vehicle Authoring" />
+      <item value="has Hit" />
+      <item value="surface Friction" />
+      <item value="Stores all hit collision data for Wheels." />
+      <item value="steer Amount" />
+      <item value="drive Amount" />
+      <item value="rear Track" />
+      <item value="Calculate Steering Angle" />
+      <item value="grip Factor" />
+      <item value="rotation Angle" />
+      <item value="drive Torque" />
+      <item value="Stores wheel data such as, visuals, rotation, size..." />
+      <item value="Smoothing method as clamp or interpolateextrapolate.Meaning the value can be applied from a snapshot as interpolatedextrapolated or unmodified directly(clamped)." />
+      <item value="Quantized or unquantized. Where quantized means a float value is sent as an int with a certain multiplication factor which sets the precision (12.456789 can be sent as 12345 with a quantization factor of 1000)." />
+      <item value="Stores data for the chassis and physics forces." />
+      <item value="Calculate anti-roll bar and apply correction forces to reduce body roll" />
+      <item value="Creates the animation curve for drive torque curve." />
+      <item value="sample T" />
+      <item value="interpolation" />
+      <item value="Find index and interpolation value in the array" />
+      <item value="Loops time value between 0...1" />
+      <item value="stiffness" />
+      <item value="wheels Base" />
+      <item value="Calculates the distance between the rear wheels" />
+      <item value="Calculates the distance between front and rear wheels" />
+      <item value="100000" />
+      <item value="Quantization" />
       <item value="rest Length" />
       <item value="Send Data For Child Entity" />
       <item value="Ghost Component" />
       <item value="Stores suspension parameters for physics" />
       <item value="Suspension" />
       <item value="Assign the chassis entity to the wheel for later processing" />
-      <item value="chassis" />
       <item value="Chassis Reference" />
       <item value="With Structural Changes" />
       <item value="Include Prefab" />
@@ -110,47 +143,14 @@
       <item value="Baking System" />
       <item value="Temporary Baking Type" />
       <item value="Lap Progress" />
-      <item value="Wheel Spring 0" />
       <item value="Wheel Visual 0" />
       <item value="grip" />
-      <item value="Is Steering" />
-      <item value="Rear Right" />
-      <item value="Wheel Placement" />
-      <item value="wheels Collision Mask" />
-      <item value="body Collision Mask" />
-      <item value="drive Torque Curve" />
-      <item value="max Drive Torque" />
-      <item value="drive Torque" />
-      <item value="down Force" />
-      <item value="anti Roll Stiffness" />
-      <item value="Collision Categories" />
-      <item value="Anti Roll Bar" />
-      <item value="steering Force" />
-      <item value="turn Radius" />
-      <item value="Steering" />
-      <item value="damper Stiffness" />
-      <item value="spring Stiffness" />
-      <item value="Rest Length" />
-      <item value="Authoring" />
-      <item value="Renderable" />
-      <item value="Transform Usage Flags" />
-      <item value="Internal Buffer Capacity" />
-      <item value="Create And Play Music Audio Source Once" />
-      <item value="Update Pitch And Volume" />
-      <item value="Update Position" />
-      <item value="finite" />
-      <item value="isfinite" />
-      <item value="_additive Scene" />
-      <item value="reverb Zones" />
-      <item value="pitch Curve" />
-      <item value="initial Audio Source Volume" />
-      <item value="Additive Audio Source Scene" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="273" />
+        <entry key="CHINESE" value="307" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="274" />
+        <entry key="ENGLISH" value="308" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

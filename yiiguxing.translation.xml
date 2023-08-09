@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Access the player's parameters in the race." />
       <item value="Wheel Spring 0" />
       <item value="is Steering" />
       <item value="wheel Spring 0" />
@@ -144,13 +145,12 @@
       <item value="Temporary Baking Type" />
       <item value="Lap Progress" />
       <item value="Wheel Visual 0" />
-      <item value="grip" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
+        <entry key="CHINESE" value="308" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="ENGLISH" value="309" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

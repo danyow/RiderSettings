@@ -95,6 +95,21 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="lazy Load" />
+      <item value="Before" />
+      <item value="destroy Before Create" />
+      <item value="Weak Singleton Mono" />
+      <item value="celebration Idle Timer" />
+      <item value="leaderboard Timer" />
+      <item value="intro Race Timer" />
+      <item value="Race" />
+      <item value="Race Bootstrap Authoring" />
+      <item value="Bootstrap A" />
+      <item value="Track Rotation" />
+      <item value="track Position" />
+      <item value="Tags each spawn point data" />
+      <item value="I Buffer Element Data" />
+      <item value="Stores the limits of the level in AABB format." />
       <item value="如果当前没有按钮被选中，那么选中第一个按钮" />
       <item value="Focus on the first Car Skin Button" />
       <item value="Access the player's parameters in the race." />
@@ -130,27 +145,12 @@
       <item value="wheels Base" />
       <item value="Calculates the distance between the rear wheels" />
       <item value="Calculates the distance between front and rear wheels" />
-      <item value="100000" />
-      <item value="Quantization" />
-      <item value="rest Length" />
-      <item value="Send Data For Child Entity" />
-      <item value="Ghost Component" />
-      <item value="Stores suspension parameters for physics" />
-      <item value="Suspension" />
-      <item value="Assign the chassis entity to the wheel for later processing" />
-      <item value="Chassis Reference" />
-      <item value="With Structural Changes" />
-      <item value="Include Prefab" />
-      <item value="With Entity Query Options" />
-      <item value="Post Baking System Group" />
-      <item value="Baking System" />
-      <item value="Temporary Baking Type" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="310" />
+        <entry key="CHINESE" value="324" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="310" />
+        <entry key="ENGLISH" value="325" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

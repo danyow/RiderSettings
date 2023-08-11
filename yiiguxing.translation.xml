@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Sets the value of a singleton component." />
       <item value="Require Implementors" />
       <item value="inherit" />
       <item value="lazy Load" />
@@ -144,13 +145,12 @@
       <item value="Find index and interpolation value in the array" />
       <item value="Loops time value between 0...1" />
       <item value="stiffness" />
-      <item value="wheels Base" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
+        <entry key="CHINESE" value="327" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

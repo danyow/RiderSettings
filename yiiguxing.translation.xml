@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Create By" />
       <item value="celebration Idle Delay" />
       <item value="Stores player progress in the game" />
       <item value="RPC, to be sent to the server to spawn a player." />
@@ -144,13 +145,12 @@
       <item value="Anti Roll Bar" />
       <item value="Authoring" />
       <item value="vehicle Authoring" />
-      <item value="has Hit" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="347" />
+        <entry key="CHINESE" value="348" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="348" />
+        <entry key="ENGLISH" value="349" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

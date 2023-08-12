@@ -95,6 +95,22 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="RPC, to be sent to the server to spawn a player." />
+      <item value="Access the necessary information to spawn a player." />
+      <item value="Burst Compile" />
+      <item value="Network Stream In Game" />
+      <item value="Specify component types that must be absent." />
+      <item value="With None" />
+      <item value="The calculated exponential smoothing average connection round trip time." />
+      <item value="estimated RTT" />
+      <item value="Network Snapshot Ack" />
+      <item value="ReadOnlyRef stores a safe read-only reference to a component data." />
+      <item value="Ref RO" />
+      <item value="Network Id Aspect" />
+      <item value="I Aspect" />
+      <item value="Go in game as soon as we have a connection set up (connection network ID has been set)" />
+      <item value="Go In" />
+      <item value="Go In Game System" />
       <item value="Controls whether this system executes when its OnUpdate function is called." />
       <item value="_initialized" />
       <item value="Sets the value of a singleton component." />
@@ -129,28 +145,12 @@
       <item value="has Hit" />
       <item value="surface Friction" />
       <item value="Stores all hit collision data for Wheels." />
-      <item value="steer Amount" />
-      <item value="drive Amount" />
-      <item value="rear Track" />
-      <item value="Calculate Steering Angle" />
-      <item value="grip Factor" />
-      <item value="rotation Angle" />
-      <item value="drive Torque" />
-      <item value="Stores wheel data such as, visuals, rotation, size..." />
-      <item value="Smoothing method as clamp or interpolateextrapolate.Meaning the value can be applied from a snapshot as interpolatedextrapolated or unmodified directly(clamped)." />
-      <item value="Quantized or unquantized. Where quantized means a float value is sent as an int with a certain multiplication factor which sets the precision (12.456789 can be sent as 12345 with a quantization factor of 1000)." />
-      <item value="Stores data for the chassis and physics forces." />
-      <item value="Calculate anti-roll bar and apply correction forces to reduce body roll" />
-      <item value="Creates the animation curve for drive torque curve." />
-      <item value="sample T" />
-      <item value="interpolation" />
-      <item value="Find index and interpolation value in the array" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="329" />
+        <entry key="CHINESE" value="345" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="330" />
+        <entry key="ENGLISH" value="346" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

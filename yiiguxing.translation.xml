@@ -95,6 +95,9 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="rest Length" />
+      <item value="spring Velocity" />
+      <item value="Simulate" />
       <item value="chassis Reference" />
       <item value="Complete" />
       <item value="Complete Dependency" />
@@ -142,15 +145,12 @@
       <item value="Race Bootstrap Authoring" />
       <item value="Bootstrap A" />
       <item value="Track Rotation" />
-      <item value="track Position" />
-      <item value="Tags each spawn point data" />
-      <item value="I Buffer Element Data" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="360" />
+        <entry key="CHINESE" value="363" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="ENGLISH" value="364" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

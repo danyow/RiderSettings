@@ -95,6 +95,11 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Calculate and apply suspension forces to the vehicle wheels" />
+      <item value="Apply Impulse" />
+      <item value="drive Torque Curve" />
+      <item value="drive Amount" />
+      <item value="Drive Force Job" />
       <item value="rest Length" />
       <item value="spring Velocity" />
       <item value="Simulate" />
@@ -140,17 +145,12 @@
       <item value="Weak Singleton Mono" />
       <item value="celebration Idle Timer" />
       <item value="leaderboard Timer" />
-      <item value="intro Race Timer" />
-      <item value="Race" />
-      <item value="Race Bootstrap Authoring" />
-      <item value="Bootstrap A" />
-      <item value="Track Rotation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
+        <entry key="CHINESE" value="368" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="ENGLISH" value="369" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

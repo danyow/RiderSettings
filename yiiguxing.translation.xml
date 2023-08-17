@@ -95,6 +95,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Complete" />
+      <item value="Complete Dependency" />
+      <item value="Before Physics System Group" />
+      <item value="Uniform Turn" />
+      <item value="_brake Button" />
+      <item value="_throttle Button" />
+      <item value="Attribute to mark a compiler generated method for method body copying. Intended only for use by internal Unity codegen." />
       <item value="Not Included In Namespace" />
       <item value="instance" />
       <item value="Preserve" />
@@ -138,19 +145,12 @@
       <item value="Tags each spawn point data" />
       <item value="I Buffer Element Data" />
       <item value="Stores the limits of the level in AABB format." />
-      <item value="如果当前没有按钮被选中，那么选中第一个按钮" />
-      <item value="Focus on the first Car Skin Button" />
-      <item value="Access the player's parameters in the race." />
-      <item value="Wheel Spring 0" />
-      <item value="is Steering" />
-      <item value="wheel Spring 0" />
-      <item value="vehicle Chassis" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="352" />
+        <entry key="CHINESE" value="359" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="353" />
+        <entry key="ENGLISH" value="360" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

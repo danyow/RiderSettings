@@ -95,6 +95,13 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Anti Roll Bar Job" />
+      <item value="Teleport Car System" />
+      <item value="Chases Downforce Job" />
+      <item value="quaternion" />
+      <item value="Axis Angle" />
+      <item value="placement" />
+      <item value="steering Angle" />
       <item value="Calculate and apply suspension forces to the vehicle wheels" />
       <item value="Apply Impulse" />
       <item value="drive Torque Curve" />
@@ -138,19 +145,12 @@
       <item value="_initialized" />
       <item value="Sets the value of a singleton component." />
       <item value="Require Implementors" />
-      <item value="inherit" />
-      <item value="lazy Load" />
-      <item value="Before" />
-      <item value="destroy Before Create" />
-      <item value="Weak Singleton Mono" />
-      <item value="celebration Idle Timer" />
-      <item value="leaderboard Timer" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
+        <entry key="CHINESE" value="375" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="ENGLISH" value="376" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

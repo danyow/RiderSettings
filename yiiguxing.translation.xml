@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="according" />
       <item value="Disable Direct Call" />
       <item value="Reset Transform" />
       <item value="Apply Impulse" />
@@ -144,13 +145,12 @@
       <item value="Go in game as soon as we have a connection set up (connection network ID has been set)" />
       <item value="Go In" />
       <item value="Go In Game System" />
-      <item value="Controls whether this system executes when its OnUpdate function is called." />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
+        <entry key="CHINESE" value="380" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="ENGLISH" value="381" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />

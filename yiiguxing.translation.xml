@@ -82,7 +82,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1692115915345" />
+    <option name="lastTrimTime" value="1692631643555" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -95,6 +95,7 @@
   </component>
   <component name="Translation.States">
     <histories>
+      <item value="Disable Direct Call" />
       <item value="Reset Transform" />
       <item value="Apply Impulse" />
       <item value="Trans" />
@@ -144,13 +145,12 @@
       <item value="Go In" />
       <item value="Go In Game System" />
       <item value="Controls whether this system executes when its OnUpdate function is called." />
-      <item value="_initialized" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="378" />
+        <entry key="CHINESE" value="379" />
         <entry key="DANISH" value="1" />
-        <entry key="ENGLISH" value="379" />
+        <entry key="ENGLISH" value="380" />
         <entry key="FRENCH" value="2" />
         <entry key="GERMAN" value="1" />
         <entry key="MALTESE" value="1" />
